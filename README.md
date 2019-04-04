@@ -16,7 +16,7 @@ python .\bowlingscoringengine.py '8/ 54 9- X- X- 5/ 53 63 9/ 9/X'
 
 Strike: `X-`
 
-Spare: `8\` - 8 pins, then 2 pins
+Spare: `8/` - 8 pins, then 2 pins
 
 Open Frame: `36` - 3 pins, then 6 pins 
 
